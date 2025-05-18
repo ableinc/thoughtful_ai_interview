@@ -2,7 +2,7 @@
 
 ## Interview Question
 
-Interview question and contraints can be found here: [Thoughtful Automation | Notion]('https://thoughtfulautomation.notion.site/Platform-Technical-Screen-b61b6f6980714c198dc49b91dd23d695')
+Interview question and contraints can be found here: https://thoughtfulautomation.notion.site/Platform-Technical-Screen-b61b6f6980714c198dc49b91dd23d695
 
 ## How to run
 
@@ -32,4 +32,4 @@ python3 thoughtful_ai_sort_challenge_tests.py
 
 ## Website
 
-[Jaylen Douglas]('https://jaylendouglas.com')
+https://jaylendouglas.com
